@@ -32,7 +32,7 @@
   background-position: center;
   background-repeat: no-repeat;
   bottom: -29px;
-  left: -22px;
+  left: 39px;
   pointer-events: none;
   filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
 }
@@ -135,7 +135,7 @@
   height: 44px;
   width: 44px;
   top: 0px;
-  left: -58px;
+  left: 39px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -192,7 +192,7 @@
   background-image: url(https://monstrousdev.github.io/themes/assets/svgs/elleCrown.svg);
   transform: scale(1.3);
   bottom: -23px;
-  left: -25px;
+  left: 39px;
 }
 
 .avatar-1BDn8e[src*="519581602179710981"]:hover + h2::after {
@@ -231,7 +231,7 @@
   background-image: url(https://media.discordapp.net/attachments/812784998939754567/818207969904295936/sheeppic.png?width=115&height=115);
   transform: scale(1.3);
   bottom: -30px;
-  left: -24px;
+  left: 39px;
   border-radius: 17px;
 }
 
@@ -284,7 +284,7 @@
   background-position: center;
   background-repeat: no-repeat;
   bottom: -29px;
-  left: -22px;
+  left: 39px;
   pointer-events: none;
   filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
 }
@@ -350,4 +350,3 @@
     transform: scale(1);
   }
 }
-/* fragraccunix#4614 */
