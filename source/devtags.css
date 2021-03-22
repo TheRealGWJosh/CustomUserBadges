@@ -31,8 +31,8 @@
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  bottom: -29px;
-  left: 39px;
+  bottom: -24px;
+  left: -29px;
   pointer-events: none;
   filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
 }
@@ -135,7 +135,7 @@
   height: 44px;
   width: 44px;
   top: 0px;
-  left: 39px;
+  left: -29px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -192,7 +192,7 @@
   background-image: url(https://monstrousdev.github.io/themes/assets/svgs/elleCrown.svg);
   transform: scale(1.3);
   bottom: -23px;
-  left: 39px;
+  left: -29px;
 }
 
 .avatar-1BDn8e[src*="519581602179710981"]:hover + h2::after {
@@ -230,8 +230,8 @@
 .avatar-1BDn8e[src*="429303151598895106"] + h2::after {
   background-image: url(https://media.discordapp.net/attachments/812784998939754567/818207969904295936/sheeppic.png?width=115&height=115);
   transform: scale(1.3);
-  bottom: -30px;
-  left: 39px;
+  bottom: -24px;
+  left: -29px;
   border-radius: 17px;
 }
 
@@ -283,8 +283,8 @@
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  bottom: -29px;
-  left: 39px;
+  bottom: -24px;
+  left: -29px;
   pointer-events: none;
   filter: drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color)) drop-shadow(0 0 2px var(--primary-color))
 }
@@ -319,8 +319,8 @@
 .avatar-1BDn8e[src*="369171050287595521"] + h2::after {
   background-image: url(https://media.discordapp.net/attachments/817599646376919080/818950643003555900/warsow-logo-256x256.png?width=230&height=230);
   transform: scale(1.2);
-  bottom: -30px;
-  left: -24px;
+  bottom: -24px;
+  left: -29px;
 }
 
 .avatar-1BDn8e[src*="369171050287595521"]:hover + h2::after {
