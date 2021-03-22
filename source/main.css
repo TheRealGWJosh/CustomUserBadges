@@ -26,8 +26,8 @@
   color: var(--main-color, var(--mc, rgb(var(--BG-tint-colour, 114, 137, 218))));
   font-size: 13px;
   position: absolute;
-  bottom: -23px;
-  left: 39px;
+  bottom: -24px;
+  left: -29px;
   border-radius: 2px;
   cursor: pointer;
   font-family: BMTicons;
