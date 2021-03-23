@@ -1,27 +1,14 @@
-.container-3w7J-x[aria-label*="JayWilson's Place"] .header-2V-4Sw {
-    box-shadow: none;
+:root {
+/*color of the shadow at the bottom of the banner, this color will depend on your theme, coming with this snippet is the color var for devilbro's discord recolor*/
+    --server-banner-shadow: var(--background-secondary);
 }
-.container-3w7J-x[aria-label*="JayWilson's Place"] .positionedContainer-3LNR6L {
-    margin-top: -48px;
-    width: 100%;
-    height: 170px;
-    box-shadow: inset 0 0 0 135px rgba(0,0,0,0.35);
-    position: relative;
-    background-image: url("https://cdn.discordapp.com/icons/763831710835933214/69d3a60796c49b8326b4d556e2f4d045.webp");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
 .container-3w7J-x[aria-label*="Black Box"] .header-2V-4Sw {
-    box-shadow: none;
+    height: 24px;
 }
-.container-3w7J-x[aria-label*="Black Box"] .positionedContainer-3LNR6L {
-    margin-top: -48px;
+.container-3w7J-x[aria-label*="Black Box"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
     width: 100%;
-    height: 300px;
-    box-shadow: inset 0 0 0 135px rgba(0,0,0,0.35);
-    position: relative;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
     background-image: url("http://i.picpar.com/BSwd.gif");
     background-repeat: no-repeat;
     background-position: center;
@@ -29,15 +16,26 @@
 }
 
 .container-3w7J-x[aria-label*="Badge Support"] .header-2V-4Sw {
-    box-shadow: none;
+    height: 24px;
 }
-.container-3w7J-x[aria-label*="Badge Support"] .positionedContainer-3LNR6L {
-    margin-top: -48px;
+.container-3w7J-x[aria-label*="Badge Support"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
     width: 100%;
-    height: 400px;
-    box-shadow: inset 0 0 0 135px rgba(0,0,0,0.35);
-    position: relative;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
     background-image: url("https://i.imgur.com/RnvRYPF.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container-3w7J-x[aria-label*="JayWilson's Place"] .header-2V-4Sw {
+    height: 24px;
+}
+.container-3w7J-x[aria-label*="JayWilson's Place"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 100%;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
+    background-image: url("https://cdn.discordapp.com/icons/763831710835933214/69d3a60796c49b8326b4d556e2f4d045.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
