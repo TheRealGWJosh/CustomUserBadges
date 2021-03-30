@@ -1,38 +1,30 @@
-:root {
 /*color of the shadow at the bottom of the banner, this color will depend on your theme, coming with this snippet is the color var for devilbro's discord recolor*/
-    --server-banner-shadow: var(--background-secondary);
+:root {
+ --server-banner-shadow: var(--background-secondary);
 }
-.container-3w7J-x[aria-label*="Black Box"] .header-2V-4Sw {
-    height: 24px;
-}
-.container-3w7J-x[aria-label*="Black Box"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
-    width: 100%;
+/* Comfy Support Server [Server ID (811203761619337259)] */ 
+.container-3w7J-x[aria-label*="Comfy camp"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 110%;
     height: 130px !important;
     box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
-    background-image: url("http://i.picpar.com/BSwd.gif");
+    background-image: url("https://i.imgur.com/61FVDVp.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-
-.container-3w7J-x[aria-label*="Badge Support"] .header-2V-4Sw {
-    height: 24px;
-}
+/* CustomUserBadges Support Server [Server ID (818960705255899178)] */
 .container-3w7J-x[aria-label*="Badge Support"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
-    width: 100%;
-    height: 130px !important;
+    width: 110%;
+    height: 150px !important;
     box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
     background-image: url("https://i.imgur.com/RnvRYPF.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-
-.container-3w7J-x[aria-label*="JayWilson's Place"] .header-2V-4Sw {
-    height: 24px;
-}
+/* BorderShapes Support Server [Server ID (763831710835933214)] */
 .container-3w7J-x[aria-label*="JayWilson's Place"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
-    width: 100%;
+    width: 110%;
     height: 130px !important;
     box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
     background-image: url("https://cdn.discordapp.com/icons/763831710835933214/69d3a60796c49b8326b4d556e2f4d045.webp");
@@ -40,8 +32,10 @@
     background-position: center;
     background-size: cover;
 }
-
-/* Important CSS */
+/* ==================================Important CSS================================== */
 .container-1taM1r {
   background: transparent !important;
+}
+.container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
+  width: 0px;
 }
