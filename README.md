@@ -15,7 +15,9 @@ git clone https://github.com/TheRealGWJosh/CustomUserBadges
 ### BetterdDiscord & Web
 [**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
 
-[Direct Download](https://betterdiscord.net/ghdl?id=3554) | [Source](https://therealgwjosh.github.io/CustomUserBadges/main/main.css)
+The Betterdiscord Version of this Theme Can Be Found at My Website! 
+
+[My Website](https://therealgwjosh.github.io/BetterDiscordStuff/)
 
 **Web** :
 * Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Chrome Beta](https://chrome.google.com/webstore/detail/stylus-beta/apmmpaebfobifelkijhaljbmpcgbjbdo?hl=en) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
