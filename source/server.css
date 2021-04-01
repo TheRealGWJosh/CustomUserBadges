@@ -1,7 +1,15 @@
-/*color of the shadow at the bottom of the banner, this color will depend on your theme, coming with this snippet is the color var for devilbro's discord recolor*/
+/* ==================================Important Variable================================== */
 :root {
- --server-banner-shadow: var(--background-secondary);
+    --server-banner-shadow: var(--background-secondary);
 }
+/* ==================================Important CSS================================== */
+.container-1taM1r {
+  background: transparent !important;
+}
+.container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
+  width: 0px;
+}
+/* ==================================Important CSS================================== */
 /* Comfy Support Server [Server ID (811203761619337259)] */ 
 .container-3w7J-x[aria-label*="Comfy camp"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
     width: 110%;
@@ -32,10 +40,44 @@
     background-position: center;
     background-size: cover;
 }
-/* ==================================Important CSS================================== */
-.container-1taM1r {
-  background: transparent !important;
+/* KLWP Project Server [Server ID (390020191582683146)] */
+.container-3w7J-x[aria-label*="KLWP Project"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 110%;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
+    background-image: url("https://i.imgur.com/uwTFn7K.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
-.container-3w7J-x .scroller-RmtA4e::-webkit-scrollbar {
-  width: 0px;
+/*  My Mod Server [Server ID (DATA_NOT_FOUND)] */
+.container-3w7J-x[aria-label*="The Phantom Mods"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 110%;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
+    background-image: url("https://i.imgur.com/sODWXO9m.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
+/*  My Twtich Server [Server ID (797173403505000539)] */
+.container-3w7J-x[aria-label*="RGWJ's Discord World"] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 110%;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
+    background-image: url("https://i.imgur.com/vzmkPqam.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/*  Server [Server ID ()] */
+.container-3w7J-x[aria-label*=""] .scroller-RmtA4e div.content-3YMskv > div:first-child {
+    width: 110%;
+    height: 130px !important;
+    box-shadow: inset  0 -20px 20px -20px var(--server-banner-shadow);
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
