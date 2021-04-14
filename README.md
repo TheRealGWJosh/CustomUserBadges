@@ -1,8 +1,8 @@
 ![Banner](https://github.com/TheRealGWJosh/CustomUserBadges/blob/main/assets/Custom_User_Badges_Banner.png?raw=true)
 
 ---
-# CustomUserBadges
-![Preview]()
+### CustomUserBadges
+![Preview](https://github.com/TheRealGWJosh/CustomUserBadges/blob/main/assets/CoverImage.png?raw=true)
 
 > Readme Under Construction
 
