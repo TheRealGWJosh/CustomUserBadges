@@ -1,5 +1,10 @@
-# CustomUserTags
-Readme Under Construction
+![Banner](https://github.com/TheRealGWJosh/CustomUserBadges/blob/main/assets/Custom_User_Badges_Banner.png?raw=true)
+
+---
+# CustomUserBadges
+![Preview]()
+
+> Readme Under Construction
 
 # Installation
 ### Quick Import
