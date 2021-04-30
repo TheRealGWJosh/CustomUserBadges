@@ -2,6 +2,8 @@
 /* ===== FRIENDS & DEVS / FIRST ORDERS ===== */
 /* CloneyInnit#6510 */
 .avatar-1BDn8e[src*="729934422068953098"] + h2::after,
+/*  Ｔｉｍｕｒｏｒｏ:ghost:ツ#0206 */
+.avatar-1BDn8e[src*="552138133391671297"] + h2::after,
 /* KU SAO#2930 */
 .avatar-1BDn8e[src*="802316175685320746"] + h2::after,
 /* Fred#9876 */
@@ -44,10 +46,12 @@
 /* ===== FRIENDS & DEVS / FIRST ORDERS ===== */
 /* CloneyInnit#6510 */
 .avatar-1BDn8e[src*="729934422068953098"]:hover + h2::after,
+/*  Ｔｉｍｕｒｏｒｏ:ghost:ツ#0206 */
+.avatar-1BDn8e[src*="552138133391671297"]:hover + h2::after,
 /* KU SAO#2930 */
 .avatar-1BDn8e[src*="802316175685320746"]:hover + h2::after,
 /* Fred#9876 */
-.avatar-1BDn8e[src*="304675387416379392"] + h2::after,
+.avatar-1BDn8e[src*="304675387416379392"]:hover + h2::after,
 /* sheep#2428 */
 .avatar-1BDn8e[src*="429303151598895106"]:hover + h2::after,
 /* Lord Boar#3333 */
@@ -130,6 +134,19 @@
   --main-color: #fff;
   text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
   content: "Verified Weeb";
+}
+
+/* Ｔｉｍｕｒｏｒｏ:ghost:ツ#0206 */
+.avatar-1BDn8e[src*="552138133391671297"] + h2::after {
+  background-image: url(https://cdn.discordapp.com/attachments/820048763157479424/837721287845216256/unknown.png);
+}
+
+.avatar-1BDn8e[src*="552138133391671297"]:hover + h2::after {
+  background-image: url(https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg);
+  color: var(--main-color);
+  --main-color: #fff;
+  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  content: "SMART GUY";
 }
 
   /* /* Lord Boar#3333 Glow */ */
