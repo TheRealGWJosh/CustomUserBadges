@@ -12,6 +12,10 @@
 |:-:|:-:|
 | MonstrousDev | Josh |
 
+> I Was Really Lazy to even touch this Readme file But I Only Yanked the code from
+> [MonstrousDev](https://github.com/themonstrousdev) if this needs to be tooken down 
+> contact me on my discord **It'sJustJosh#2812**
+
 # Installation
 ### Quick Import
 ``` 
