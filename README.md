@@ -6,6 +6,12 @@
 
 > Readme Under Construction
 
+## Developers & Contributors
+
+| <a href="https://github.com/themonstrousdev" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40906882?v=4" alt="" width="96px" height="96px"> </a> | <a href="https://github.com/TheRealGWJosh" target="_blank"> <img src="https://avatars.githubusercontent.com/u/68560159?v=4" alt="" width="96px" height="96px"> </a> |
+|:-:|:-:|
+| MonstrousDev | Josh |
+
 # Installation
 ### Quick Import
 ``` 
