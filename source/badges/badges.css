@@ -1,3 +1,5 @@
+
+
 /* ======= SPECIAL TAGS & BADGES ========= */ 
 /* ===== FRIENDS & DEVS / FIRST ORDERS ===== */
 /* CloneyInnit#6510 */
@@ -382,23 +384,3 @@
   --main-color: #b71cff;
 }
 
-/* ===== KEYFRAMES ===== */
-@-webkit-keyframes mentionpulse {
-  0% {
-    -webkit-box-shadow: 0 0 0 0 var(--main-color);
-  }
-  70% {
-    -webkit-box-shadow: 0 0 0 5px rgba(204, 169, 44, 0);
-  }
-  100% {
-    -webkit-box-shadow: 0 0 0 0 rgba(204, 169, 44, 0);
-  }
-}
-@keyframes popoutanim {
-  0% {
-    transform: scale(0);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
