@@ -1,9 +1,13 @@
 /* TEXT ONLY BADGES */
 @import url('https://therealgwjosh.github.io/CustomUserBadges/source/badges/text.css');
-
+/* BLACKBOX IMPORT */
 @import 'https://monstrousdev.github.io/themes/addons/user-tags.css';
-@import 'https://therealgwjosh.github.io/CustomUserBadges/source/tags.css';
-@import 'https://therealgwjosh.github.io/BannerBG/src/banners.css';
+
+/* OLD CONTENT */
 @import 'https://therealgwjosh.github.io/CustomUserBadges/source/devglow.css';
 @import 'https://therealgwjosh.github.io/CustomUserBadges/source/devtags.css';
+
+/* EXRTA CONTENT */
 @import 'https://therealgwjosh.github.io/CustomUserBadges/source/server-icons.css';
+@import 'https://therealgwjosh.github.io/CustomUserBadges/source/src/extra.css';
+@import 'https://therealgwjosh.github.io/BannerBG/src/banners.css';
